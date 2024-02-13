@@ -1,4 +1,4 @@
-FILEPATH = "/Users/iantgillespie/PycharmProjects/GetMyLifeTogether/To-Do App/todos.txt"
+FILEPATH = "todos.txt"
 
 
 def get_todos(filepath=FILEPATH):
